@@ -1,6 +1,8 @@
 # Toy App
-Create users and make microposts
-deployed at: https://toy-app-711.herokuapp.com/
+
+Create users and make microposts.
+
+Deployed at: https://toy-app-711.herokuapp.com/
 
 # README
 
