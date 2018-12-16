@@ -1,3 +1,7 @@
+# Toy App
+Create users and make microposts
+deployed at: https://toy-app-711.herokuapp.com/
+
 # README
 
 This README would normally document whatever steps are necessary to get the
